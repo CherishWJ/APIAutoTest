@@ -1,0 +1,5 @@
+2018-04-10 16:20:12,864 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-10 16:20:12,865 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 16:20:17,250 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-10 16:20:20,798 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 16:20:21,146 - BrowserEngine - INFO - 最大化当前窗口.

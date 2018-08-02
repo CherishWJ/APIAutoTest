@@ -1,0 +1,36 @@
+2018-04-10 22:30:21,596 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-10 22:30:21,597 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 22:30:26,592 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-10 22:30:50,430 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 22:30:50,678 - BrowserEngine - INFO - 最大化当前窗口.
+2018-04-10 22:30:50,682 - BrowserEngine - INFO - 设置隐式等待10s.
+2018-04-10 22:30:50,982 - BasePage - INFO - Had find the element '  ' successful by id via value: user_login 
+2018-04-10 22:30:51,157 - BasePage - INFO - Had type ' anjing ' in inputBox
+2018-04-10 22:30:51,230 - BasePage - INFO - Had find the element '  ' successful by id via value: user_pass 
+2018-04-10 22:30:51,458 - BasePage - INFO - Had type ' anjing123456 ' in inputBox
+2018-04-10 22:30:51,525 - BasePage - INFO - Had find the element '  ' successful by id via value: wp-submit 
+2018-04-10 22:31:13,507 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-10 22:31:15,014 - BasePage - INFO - Click back on current page.
+2018-04-10 22:31:25,082 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id ="wp-admin-bar-my-account"]/a"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-04-10 22:31:25,750 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-10 22:31:25,849 - BasePage - INFO - Had find the element '  ' successful by id via value: user_login 
+2018-04-10 22:31:26,049 - BasePage - INFO - Had type ' anjing ' in inputBox
+2018-04-10 22:31:26,138 - BasePage - INFO - Had find the element '  ' successful by id via value: user_pass 
+2018-04-10 22:31:26,317 - BasePage - INFO - Had type ' anjing ' in inputBox
+2018-04-10 22:31:26,410 - BasePage - INFO - Had find the element '  ' successful by id via value: wp-submit 
+2018-04-10 22:31:30,178 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-10 22:31:33,506 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-10 22:31:33,506 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 22:31:38,012 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-10 22:32:02,737 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 22:32:02,965 - BrowserEngine - INFO - 最大化当前窗口.
+2018-04-10 22:32:02,967 - BrowserEngine - INFO - 设置隐式等待10s.
+2018-04-10 22:32:03,054 - BasePage - INFO - Had find the element '  ' successful by id via value: user_login 
+2018-04-10 22:32:03,281 - BasePage - INFO - Had type ' anjing ' in inputBox
+2018-04-10 22:32:03,400 - BasePage - INFO - Had find the element '  ' successful by id via value: user_pass 
+2018-04-10 22:32:03,583 - BasePage - INFO - Had type ' anjing ' in inputBox
+2018-04-10 22:32:03,640 - BasePage - INFO - Had find the element '  ' successful by id via value: wp-submit 
+2018-04-10 22:32:06,575 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

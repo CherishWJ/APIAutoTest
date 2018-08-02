@@ -1,0 +1,15 @@
+{
+  "test_login.py::LoginCase": true, 
+  "test_login.py::LoginCase::test_login": true, 
+  "test_login1.py::LoginTest::test_find_password": true, 
+  "test_login1.py::LoginTest::test_login": true, 
+  "test_login1.py::LoginTest::test_login_error": true, 
+  "test_login1.py::TestLogin::test_login": true, 
+  "test_login1.py::TestLogin::test_login_error": true, 
+  "test_login1.py::test_Login::test_login": true, 
+  "test_login1.py::test_Login::test_login1": true, 
+  "test_login2.py::TestLogin::test_login": true, 
+  "test_remember.py::LoginTest::test_login": true, 
+  "test_remember.py::LoginTest::test_remember": true, 
+  "test_remember.py::RememberTest::test_remember": true
+}

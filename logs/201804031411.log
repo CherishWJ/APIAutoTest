@@ -1,0 +1,18 @@
+2018-04-03 14:11:57,317 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-03 14:11:57,317 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-03 14:12:01,242 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-03 14:12:05,088 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-03 14:12:05,361 - BrowserEngine - INFO - 最大化当前窗口.
+2018-04-03 14:12:05,363 - BrowserEngine - INFO - 设置隐式等待10s.
+2018-04-03 14:12:05,454 - BasePage - INFO - 成功找到定位元素:by id via value: user_login 
+2018-04-03 14:12:05,618 - BasePage - INFO - 在输入框输入：anjing
+2018-04-03 14:12:05,698 - BasePage - INFO - 成功找到定位元素:by id via value: user_pass 
+2018-04-03 14:12:05,919 - BasePage - INFO - 在输入框输入：anjing123456
+2018-04-03 14:12:05,972 - BasePage - INFO - 成功找到定位元素:by id via value: wp-submit 
+2018-04-03 14:12:11,565 - BasePage - INFO - 已经点击
+2018-04-03 14:12:17,442 - BasePage - INFO - 成功截图并保存于文件夹：screenshot
+2018-04-03 14:12:27,476 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"user_login"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-04-03 14:12:28,192 - BasePage - INFO - 成功截图并保存于文件夹：screenshot

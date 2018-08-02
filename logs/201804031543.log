@@ -1,0 +1,21 @@
+2018-04-03 15:43:15,361 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-03 15:43:15,362 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-03 15:43:20,337 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-03 15:43:23,262 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-03 15:43:23,869 - BrowserEngine - INFO - 最大化当前窗口.
+2018-04-03 15:43:23,873 - BrowserEngine - INFO - 设置隐式等待10s.
+2018-04-03 15:43:23,973 - BasePage - INFO - 成功找到定位元素:by id via value: user_login 
+2018-04-03 15:43:24,204 - BasePage - INFO - 在输入框输入：anjing
+2018-04-03 15:43:24,330 - BasePage - INFO - 成功找到定位元素:by id via value: user_pass 
+2018-04-03 15:43:24,607 - BasePage - INFO - 在输入框输入：anjing123456
+2018-04-03 15:43:24,684 - BasePage - INFO - 成功找到定位元素:by id via value: wp-submit 
+2018-04-03 15:43:30,426 - BasePage - INFO - 已经点击
+2018-04-03 15:43:33,064 - BasePage - INFO - 成功截图并保存于文件夹：screenshot
+2018-04-03 15:43:34,202 - BasePage - INFO - 后退一页
+2018-04-03 15:43:34,300 - BasePage - INFO - 成功找到定位元素:by id via value: user_login 
+2018-04-03 15:43:34,474 - BasePage - INFO - 在输入框输入：anjing
+2018-04-03 15:43:34,507 - BasePage - INFO - 成功找到定位元素:by id via value: user_pass 
+2018-04-03 15:43:34,599 - BasePage - INFO - 在输入框输入：123
+2018-04-03 15:43:34,635 - BasePage - INFO - 成功找到定位元素:by id via value: wp-submit 
+2018-04-03 15:43:35,667 - BasePage - INFO - 已经点击
+2018-04-03 15:43:41,356 - BasePage - INFO - 成功截图并保存于文件夹：screenshot

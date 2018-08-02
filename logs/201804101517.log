@@ -1,0 +1,14 @@
+2018-04-10 15:17:12,147 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-10 15:17:12,148 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 15:17:17,658 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-10 15:17:22,436 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 15:17:22,655 - BrowserEngine - INFO - 最大化当前窗口.
+2018-04-10 15:17:22,657 - BrowserEngine - INFO - 设置隐式等待10s.
+2018-04-10 15:17:22,753 - BasePage - INFO - 成功找到定位元素:by id via value: user_login 
+2018-04-10 15:17:22,986 - BasePage - INFO - 在输入框输入：anjing
+2018-04-10 15:17:23,085 - BasePage - INFO - 成功找到定位元素:by id via value: user_pass 
+2018-04-10 15:17:23,281 - BasePage - INFO - 在输入框输入：anjing123456
+2018-04-10 15:17:23,345 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='rememberme'] 
+2018-04-10 15:17:23,517 - BasePage - INFO - 成功找到定位元素:by id via value: wp-submit 
+2018-04-10 15:17:33,326 - BasePage - INFO - 成功截图并保存于文件夹：screenshot
+2018-04-10 15:17:35,384 - BasePage - INFO - 后退一页

@@ -1,0 +1,9 @@
+2018-04-03 21:27:04,646 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-03 21:27:04,647 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-03 21:27:09,344 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-03 21:27:32,644 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-03 21:27:33,373 - BrowserEngine - INFO - 最大化当前窗口.
+2018-04-03 21:27:33,375 - BrowserEngine - INFO - 设置隐式等待10s.
+2018-04-03 21:27:34,854 - BasePage - INFO - 刷新
+2018-04-03 21:27:45,744 - BasePage - INFO - 成功截图并保存于文件夹：screenshot
+2018-04-03 21:27:45,865 - BasePage - INFO - Had find the element ' 忘记密码？ ' successful by xpath via value: //*[@id='nav']/a 

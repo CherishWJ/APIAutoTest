@@ -1,0 +1,18 @@
+1523344898700	geckodriver	INFO	Listening on 127.0.0.1:44188
+1523344899255	mozprofile::profile	INFO	Using profile path C:\Users\w02847\AppData\Local\Temp\rust_mozprofile.jaN7EPATHmsU
+1523344899267	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1523344899421	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44201
+1523344903390	Marionette	INFO	Listening on port 44201
+1523344909409	Marionette	INFO	startBrowser 921c5b34-9cd5-4604-a41b-1eb82a558048
+1523344909438	Marionette	INFO	sendAsync 921c5b34-9cd5-4604-a41b-1eb82a558048
+1523344911494	Marionette	INFO	sendAsync 921c5b34-9cd5-4604-a41b-1eb82a558048
+1523344982870	geckodriver	INFO	Listening on 127.0.0.1:44426
+1523344983436	mozprofile::profile	INFO	Using profile path C:\Users\w02847\AppData\Local\Temp\rust_mozprofile.QcPBPjf5HjRE
+1523344983451	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1523344983551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44433
+1523344987259	Marionette	INFO	Listening on port 44433
+1523344993720	Marionette	INFO	startBrowser f057a88e-89d2-49fd-9f68-04ade1fe8d1d
+1523344993745	Marionette	INFO	sendAsync f057a88e-89d2-49fd-9f68-04ade1fe8d1d
+1523344994566	Marionette	INFO	sendAsync f057a88e-89d2-49fd-9f68-04ade1fe8d1d
+1523345101649	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 78: TypeError: this._recipeManager is null

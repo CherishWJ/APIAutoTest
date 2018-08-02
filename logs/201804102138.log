@@ -1,0 +1,12 @@
+2018-04-10 21:38:42,689 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-10 21:38:42,690 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 21:38:47,190 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-10 21:39:11,643 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 21:39:11,902 - BrowserEngine - INFO - 最大化当前窗口.
+2018-04-10 21:39:11,904 - BrowserEngine - INFO - 设置隐式等待10s.
+2018-04-10 21:39:12,002 - BasePage - INFO - Had find the element '  ' successful by id via value: user_login 
+2018-04-10 21:39:12,255 - BasePage - INFO - Had type ' anjing ' in inputBox
+2018-04-10 21:39:12,336 - BasePage - INFO - Had find the element '  ' successful by id via value: user_pass 
+2018-04-10 21:39:12,455 - BasePage - INFO - Had type ' 123 ' in inputBox
+2018-04-10 21:39:12,517 - BasePage - INFO - Had find the element '  ' successful by id via value: wp-submit 
+2018-04-10 21:39:20,878 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

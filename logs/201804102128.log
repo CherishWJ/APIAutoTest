@@ -1,0 +1,16 @@
+2018-04-10 21:28:22,680 - BrowserEngine - INFO - 你选择的浏览器是： Chrome.
+2018-04-10 21:28:22,681 - BrowserEngine - INFO - 测试网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 21:28:28,174 - BrowserEngine - INFO - 开始启动Chrome.
+2018-04-10 21:28:53,036 - BrowserEngine - INFO - 打开的网址是: http://localhost/wordpress/wp-login.php
+2018-04-10 21:28:53,495 - BrowserEngine - INFO - 最大化当前窗口.
+2018-04-10 21:28:53,498 - BrowserEngine - INFO - 设置隐式等待10s.
+2018-04-10 21:28:55,608 - BasePage - INFO - Had find the element '  ' successful by id via value: user_login 
+2018-04-10 21:28:55,827 - BasePage - INFO - Had type ' anjing ' in inputBox
+2018-04-10 21:28:58,217 - BasePage - INFO - Had find the element '  ' successful by id via value: user_pass 
+2018-04-10 21:28:59,465 - BasePage - INFO - Had type ' anjing123456 ' in inputBox
+2018-04-10 21:28:59,593 - BasePage - INFO - Had find the element '  ' successful by id via value: wp-submit 
+2018-04-10 21:29:11,035 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-10 21:29:13,127 - BasePage - INFO - Had find the element ' 嗨，anjing ' successful by xpath via value: //*[@id ="wp-admin-bar-my-account"]/a 
+2018-04-10 21:29:13,181 - BasePage - INFO - 已经获取文本:嗨，anjing
+2018-04-10 21:29:13,236 - BasePage - INFO - Had find the element ' 嗨，anjing ' successful by xpath via value: //*[@id ="wp-admin-bar-my-account"]/a 
+2018-04-10 21:29:13,283 - BasePage - INFO - 已经获取文本:嗨，anjing
